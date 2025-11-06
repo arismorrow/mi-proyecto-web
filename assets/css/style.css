@@ -140,3 +140,10 @@ select:focus {
 .skip-link:focus {
 	top: 6px;
 }
+
+.hero {
+  background-image: url("https://ik.imagekit.io/arismorrrow/portfolio/texture.jpg?updatedAt=1762397319023?tr=w-1600,q-70,f-auto");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
