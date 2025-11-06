@@ -2,27 +2,27 @@
 # This file will be used to generate your entry in the course showroom
 
 # Basic information
-handle: your-github-username
-name: Your Full Name
-email: your-email@udit.es
+handle: arismorrow
+name: Aris Morrow
+email: aris.morrow@keemail.me
 
 # URLs (will be auto-generated if you follow naming conventions)
-github_url: https://github.com/your-username
-project_url: https://your-username.github.io/your-project-repo
-repository_url: https://github.com/your-username/your-project-repo
+github_url: https://github.com/arismorrow
+project_url: https://arismorrow.github.io/mi-proyecto-web
+repository_url: https://github.com/arismorrow/mi-proyecto-web
 
 # Project details
 title:
- es: Título de tu Proyecto en Español
- en: Your Project Title in English
+ es: Mi proyecto web
+ en: My Web Project
 
 abstract:
  es: |
-  Una descripción concisa de tu proyecto web en español. 
-  Explica qué construyes, para quién y por qué es importante.
+  Este es mi primer proyecto web creado durante el curso de Desarrollo Web.
+  Incluye varias características interesantes y buenas prácticas.
  en: |
-  A concise description of your web project in English.
-  Explain what you're building, for whom, and why it matters.
+  This is my first web project created during the Web Development course.
+  It includes several interesting features and best practices.
 
 # Technical tags (choose relevant ones)
 tags:
@@ -41,7 +41,7 @@ learning_focus:
 
 # Week tracking (update as you go)
 milestones:
- week_1_setup: false
+ week_1_setup: true
  week_2_brief: false
  week_4_metadata: false
  week_5_showcase: false
